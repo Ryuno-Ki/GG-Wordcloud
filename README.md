@@ -6,7 +6,7 @@ A wordcloud made out of German constitution (= Grundgesetz, GG)
 
 Activate [virtualenv](http://docs.python-guide.org/en/latest/dev/virtualenvs/#virtualenvwrapper).
 
-Install dependencies via `pip install -r requirements.txt'.
+Install dependencies via `pip install -r requirements.txt`.
 
 # Example
 
