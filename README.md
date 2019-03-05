@@ -1,3 +1,5 @@
+*This repo is archived and won't receive any updates*
+
 # GG-Wordcloud
 
 A wordcloud made out of German constitution (= Grundgesetz, GG)
